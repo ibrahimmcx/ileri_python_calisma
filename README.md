@@ -42,7 +42,7 @@
 
 ## 🚀 Canlı Demo
 
-**[🌐 Uygulamayı Dene](YOUR_VERCEL_URL_HERE)** ← *Vercel'e deploy ettikten sonra buraya URL'nizi ekleyin*
+**[🌐 Uygulamayı Dene](https://ileripythoncalisma.vercel.app/)** ← *Vercel'e deploy ettikten sonra buraya URL'nizi ekleyin*
 
 ## 📦 Kurulum
 
