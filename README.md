@@ -18,7 +18,7 @@
 - 🎨 **Animasyonlu Geçişler**: Smooth ve modern animasyonlar
 - 💾 **Client-Side**: Sunucu gerektirmez, tamamen tarayıcıda çalışır
 
-## 📚 Kapsanan Konular
+## 📚 Kapsanan Konular İleri Python Dersinde Aldığım Not Dosyalarıdır
 
 | # | Dosya | Konu | Soru Sayısı |
 |---|-------|------|-------------|
@@ -40,9 +40,7 @@
 
 **Toplam: 75 Soru**
 
-## 🚀 Canlı Demo
 
-**[🌐 Uygulamayı Dene](https://ileripythoncalisma.vercel.app/)** ← *Vercel'e deploy ettikten sonra buraya URL'nizi ekleyin*
 
 ## 📦 Kurulum
 
@@ -69,8 +67,7 @@ http://localhost:8000
 
 ### Vercel ile Deploy
 
-[![Deploy with Vercel](https://vercel.com/button)](https://ileripythoncalisma.vercel.app/)
-
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/KULLANICI_ADINIZ/python-quiz)
 **Manuel Deploy:**
 
 1. [Vercel](https://vercel.com) hesabınıza giriş yapın
