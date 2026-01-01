@@ -1,6 +1,6 @@
 # 🐍 Python Quiz - İnteraktif Quiz Uygulaması
 
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen.svg)](YOUR_VERCEL_URL_HERE)
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen.svg)](https://ileripythoncalisma.vercel.app/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -18,7 +18,7 @@
 - 🎨 **Animasyonlu Geçişler**: Smooth ve modern animasyonlar
 - 💾 **Client-Side**: Sunucu gerektirmez, tamamen tarayıcıda çalışır
 
-## 📚 Kapsanan Konular İleri Python Dersinde Aldığım Not Dosyalarıdır
+## 📚 Kapsanan Konular
 
 | # | Dosya | Konu | Soru Sayısı |
 |---|-------|------|-------------|
@@ -40,7 +40,9 @@
 
 **Toplam: 75 Soru**
 
+## 🚀 Canlı Demo
 
+**[🌐 Uygulamayı Dene](https://ileripythoncalisma.vercel.app/)**
 
 ## 📦 Kurulum
 
@@ -48,8 +50,8 @@
 
 1. **Repoyu klonlayın:**
 ```bash
-git clone https://github.com/KULLANICI_ADINIZ/python-quiz.git
-cd python-quiz
+git clone https://github.com/ibrahimmcx/ileri_python_calisma.git
+cd ileri_python_calisma
 ```
 
 2. **Tarayıcıda açın:**
@@ -67,14 +69,15 @@ http://localhost:8000
 
 ### Vercel ile Deploy
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/KULLANICI_ADINIZ/python-quiz)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ibrahimmcx/ileri_python_calisma)
+
 **Manuel Deploy:**
 
 1. [Vercel](https://vercel.com) hesabınıza giriş yapın
 2. "New Project" butonuna tıklayın
 3. GitHub reponuzu seçin
 4. "Deploy" butonuna tıklayın
-5. Deploy tamamlandıktan sonra verilen URL'yi README'deki `YOUR_VERCEL_URL_HERE` yerine ekleyin
+5. Proje otomatik olarak deploy edilecektir
 
 ## 🎮 Kullanım
 
@@ -96,7 +99,7 @@ http://localhost:8000
 ## 📁 Proje Yapısı
 
 ```
-python-quiz/
+ileri_python_calisma/
 ├── index.html          # Ana HTML dosyası
 ├── style.css           # Tüm stiller ve animasyonlar
 ├── script.js           # Quiz mantığı ve interaktivite
@@ -146,10 +149,10 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 ## 👤 Geliştirici
 
-**ibrahim culfa**
+**İbrahim**
 
-- GitHub: [@ibraimmcx](https://github.com/ibrahimmcx)
-
+- GitHub: [@ibrahimmcx](https://github.com/ibrahimmcx)
+- Vercel: [Live Demo](https://ileripythoncalisma.vercel.app/)
 
 ## 🙏 Teşekkürler
 
@@ -159,13 +162,13 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 ## 📸 Ekran Görüntüleri
 
 ### Ana Sayfa
-![Ana Sayfa](https://via.placeholder.com/800x400?text=Quiz+Selection+Screen)
+![Ana Sayfa](images/1.png)
 
 ### Quiz Ekranı
-![Quiz Ekranı](https://via.placeholder.com/800x400?text=Quiz+Question+Screen)
+![Quiz Ekranı](images/2.png)
 
 ### Sonuç Ekranı
-![Sonuç Ekranı](https://via.placeholder.com/800x400?text=Results+Screen)
+![Sonuç Ekranı](images/3.png)
 
 ---
 
